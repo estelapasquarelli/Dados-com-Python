@@ -23,8 +23,8 @@ Neste projeto, utilizamos a biblioteca **Pandas** para explorar um conjunto de d
 ## 💡 Sobre os próximos projetos
 Este repositório será atualizado com mais 3 projetos ao longo da imersão:
 
-| Aula | Tema | Descrição |
-|------|------|-----------|
+| Aula | Tema
+|------|------|
 | ✅ Aula 1 | Explore dados com Pandas |
 | 🔜 Aula 2 | Limpeza e preparação de dados |
 | 🔜 Aula 3 | Gráficos |
