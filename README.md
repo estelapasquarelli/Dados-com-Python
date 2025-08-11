@@ -11,12 +11,13 @@ Coleta, tratamento, análise e visualização de dados.
 [![Seaborn](https://img.shields.io/badge/Seaborn-3C7EBB?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
 ## Aula 1 – Explorando Dados com Pandas
-**Análise de Salários na Educação (2025)**  
-Neste projeto, utilizei a biblioteca **Pandas** para explorar um conjunto de dados **fictício**, simulando informações sobre salários de profissionais da educação em diferentes países, níveis de experiência e formatos de trabalho.
+Análise de Salários na Educação (2025): Neste projeto, utilizei a biblioteca **Pandas** para explorar um conjunto de dados **fictício**, simulando informações sobre salários de profissionais da educação em diferentes países, níveis de experiência e formatos de trabalho.
 
 ## Aula 2 - Limpeza e Preparação de Dados
-**Tratamento de Dados Faltantes em um DataFrame de Vendas**  
-Neste projeto, utilizei a biblioteca **Pandas** e **Numpy** para tratar dados faltantes em um DataFrame de vendas **fictício**.
+Tratamento de Dados Faltantes em um DataFrame de Vendas: Neste projeto, utilizei a biblioteca **Pandas** e **Numpy** para tratar dados faltantes em um DataFrame de vendas **fictício**.
+
+## Aula 3 - Gráficos e Visualização de Dados
+Criação de diferentes tipos de gráficos estatísticos como histogramas, boxplots e gráficos de barra para visualizar e explorar informações presentes nos dados com **Matplotlib**, **Plotly** e **Seaborn**.
 
 ---
 
