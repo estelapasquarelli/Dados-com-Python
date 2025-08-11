@@ -21,6 +21,6 @@ Tratamento de Dados Faltantes em um DataFrame de Vendas: Neste projeto, utilizei
 Criação de diferentes tipos de gráficos estatísticos como histogramas, boxplots e gráficos de barra para visualizar e explorar informações presentes nos dados com **Matplotlib**, **Plotly** e **Seaborn**.
 
 ## Aula 4 - Dashboard Interativo
-Criação de um dashboard de análise de salários na área de dados com base nos gráficos feitos na aula anterior: https://dados-com-python-alura-imersao.streamlit.app/
+Criação de um dashboard com **Streamlit** de análise de salários na área de dados com base nos gráficos feitos na aula anterior: https://dados-com-python-alura-imersao.streamlit.app/
 
 ---
