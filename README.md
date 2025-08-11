@@ -25,5 +25,5 @@ Criação de diferentes tipos de gráficos estatísticos como histogramas, boxpl
 |------|------|
 | ✅ Aula 1 | Explore dados com Pandas |
 | ✅ Aula 2 | Limpeza e preparação de dados |
-| 🔜 Aula 3 | Gráficos |
+| ✅ Aula 3 | Gráficos |
 | 🔜 Aula 4 | Dashboard interativo |
